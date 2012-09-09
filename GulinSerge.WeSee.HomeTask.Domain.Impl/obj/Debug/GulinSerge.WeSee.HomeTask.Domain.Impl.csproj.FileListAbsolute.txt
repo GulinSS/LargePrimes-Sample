@@ -1,0 +1,7 @@
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\obj\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\obj\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Impl\obj\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.pdb

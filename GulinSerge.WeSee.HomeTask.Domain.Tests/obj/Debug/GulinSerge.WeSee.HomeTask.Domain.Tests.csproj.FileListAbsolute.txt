@@ -1,0 +1,7 @@
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Tests.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Tests.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\bin\Debug\nunit.framework.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\bin\Debug\nunit.framework.xml
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\obj\Debug\GulinSerge.WeSee.HomeTask.Domain.Tests.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Domain.Tests\obj\Debug\GulinSerge.WeSee.HomeTask.Domain.Tests.pdb

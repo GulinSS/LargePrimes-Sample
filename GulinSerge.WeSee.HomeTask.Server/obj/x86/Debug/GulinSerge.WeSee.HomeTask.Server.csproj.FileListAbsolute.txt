@@ -1,0 +1,16 @@
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Server.exe.config
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Server.exe
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Server.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\Autofac.Configuration.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\Autofac.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\Autofac.Integration.Wcf.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Service.dll
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.Impl.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Domain.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\GulinSerge.WeSee.HomeTask.Service.pdb
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\bin\Debug\Autofac.xml
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\obj\x86\Debug\GulinSerge.WeSee.HomeTask.Server.exe
+D:\LocalRepository\WeSee.HomeTask\GulinSerge.WeSee.HomeTask.Server\obj\x86\Debug\GulinSerge.WeSee.HomeTask.Server.pdb
